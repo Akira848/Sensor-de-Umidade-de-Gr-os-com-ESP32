@@ -7,9 +7,9 @@
 #include <time.h>
 
 // --- CONFIGURAÇÕES DE REDE E SERVIDOR ---
-const char* ssid       = "Redmi Note 14";       // COLOQUE O NOME DO SEU WI-FI AQUI
+const char* ssid       = "";       // COLOQUE O NOME DO SEU WI-FI AQUI
 const char* password   = "";      // COLOQUE A SENHA AQUI
-const char* serverName = "http://187.108.118.60:9083/Medidor/API/api.php"; // Se tiver uma rota (ex: /api/dados), coloque no final
+const char* serverName = ""; // Se tiver uma rota (ex: /api/dados), coloque no final
 
 // --- CONFIGURAÇÕES DE HARDWARE ---
 LiquidCrystal_I2C lcd(0x27, 16, 2);
