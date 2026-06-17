@@ -9,9 +9,9 @@
 // =====================================================
 //  CONFIGURAÇÕES — edite apenas esta seção
 // =====================================================
-const char* WIFI_SSID     = "iPhone de Rafael";
-const char* WIFI_SENHA    = "julia123";
-const char* API_URL       = "http://187.108.118.60:9083/Medidor/api/api.php";
+const char* WIFI_SSID     = "";
+const char* WIFI_SENHA    = "";
+const char* API_URL       = "";
 
 const long  GMT_OFFSET_SEC  = -3 * 3600;  // Brasil UTC-3
 const int   DAYLIGHT_OFFSET = 0;
